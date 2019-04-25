@@ -1,0 +1,22 @@
+*.pyc
+*.pyo
+*.class
+*~
+*.DS_Store
+build/
+dist/
+MANIFEST
+README.txt
+*.egg-info
+*.swp
+test/local_parameters.json
+.tox
+
+# IntelliJ related files
+.idea
+*.iml
+
+
+tmp/
+venv/
+
